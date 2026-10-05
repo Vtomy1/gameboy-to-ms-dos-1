@@ -1,0 +1,6 @@
+{
+  "name": "GB2DOS: Game Boy to MS-DOS Executable & Mode 13h Studio",
+  "description": "Transpile Game Boy 2BPP graphics, tiles, and SM83 assembly into MS-DOS MZ executables with 8-bit 320x200 Mode 13h rendering for legacy x86 hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
